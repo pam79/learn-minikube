@@ -4,8 +4,8 @@
 #+startup: content hidestars hideblocks
 
 This is a tutorial on learning Kubernetes locally with Minikube. We intend to
-add to it on a weekly basis until we explore most the Kubernetes features.
-Follow along if you like.
+add to it on a weekly basis until we explore most of the Kubernetes features.
+Follow along if you are interested.
 
 * Minikube Setup
 
